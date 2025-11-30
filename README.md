@@ -1,2 +1,65 @@
 # My-First-Repository
 Im creating my first repositry
+Maka Megrelishvili
+
+Junior UI/UX Designer
+
+Contact
+
+Email: 
+megrelishvilimaka5@gmail.com
+
+Phone: 
+597 99 00 17
+
+Address: 
+Kutaisi, 4601
+
+LinkedIn:
+https://www.linkedin.com/in/maka-megrelishvili-02544a34a/
+
+Date of Birth: 
+10/02/1989
+
+Professional Summary
+
+Innovative UI/UX Designer specializing in crafting user-centric interfaces and enhancing user experiences. Combines strong design principles with deep understanding of user behavior, employing advanced tools and methodologies. Excels in wireframing, prototyping, and usability testing. Brings curiosity and precision to every project, ensuring optimal functionality and aesthetics as UI/UX Designer.
+
+Experience
+
+Ground Operations Agent
+Kutaisi International Airport, KutaisiJul 2018 - Present
+
+Coordinate and supervise all aircraft ground operations to ensure safe, efficient, and on-time turnarounds.
+Prepare and verify aircraft loadsheets, including weight and balance calculations, in compliance with airline and ICAO standards.
+Communicate directly with flight crews, ramp agents, pax handling, fuel providers, and catering to synchronize ground services.
+Monitor critical operations such as fueling, baggage loading/unloading, and passenger boarding.
+Respond promptly to operational changes, delays, and emergencies, particularly during night shifts.
+Ensure documentation accuracy (LIR, NOTOC, Loadsheet) and maintain safety compliance at all stages of dispatch.
+
+Education
+
+Smart Academy
+Tbilisi, Georgia
+Feb 2025
+
+Certificate
+Ui/Ux Designer
+
+First Moscow State Medical University
+Russia, Moscow
+2012
+
+Diploma
+Medicine
+
+Skills
+
+Teamwork and collaboration, Customer service, Friendly, positive attitude, Multitasking, Wireframing, Wireframing and prototype design, Figma proficiency, Design thinking, Visual design, Prototyping, Layout design, Mobile-first design, Interaction design, Time management, UX architecture, Iconography, Usability testing, Responsive design, Solution prototypes, Journey mapping, Solution mock-ups, Website architecture
+User empathy, Grid systems, Usability and accessibility, Attention to detail
+
+Languages
+
+Georgian, Native 
+English, Intermediate 
+Russian, Fluent 
